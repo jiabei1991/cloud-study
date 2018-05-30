@@ -6,6 +6,7 @@
 
   <groupId>jiabei.cloud.study</groupId>
   <artifactId>cloud-study</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>cloud-study</name>
